@@ -14,4 +14,5 @@ Jupiter:
 Neptune:
 ![Neputun-al...wait, how do you say this? Frame](http://i.imgur.com/89cWMF2.png)
 As you can tell, the retrograde motion becomes more and more pronounced as you get further away from the Sun-center system.
+
 Also, as you get farther away, you begin to notice a sort of inner planet type system form. That raises an interesting question: would we have had a planetary-centric model for as long if humanity had grown on Jupiter? Neptune? (I personally think we wouldn't have.)
