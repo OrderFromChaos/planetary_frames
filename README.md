@@ -7,11 +7,11 @@ To start, I assumed that the planetary orbits are roughly circles. This is wrong
 ![Copernican Frame](http://i.imgur.com/rwfFqLr.png)
 
 By editing line 57 (see the code, which has more use instructions), we can translate to a new reference frame. Here are a few interesting ones:
-Earth:
+### Earth:
 ![Earth Frame](http://i.imgur.com/T2XaJ4O.png)
-Jupiter:
+### Jupiter:
 ![Jupiter Frame](http://i.imgur.com/1OmvZEI.png)
-Neptune:
+### Neptune:
 ![Neputun-al...wait, how do you say this? Frame](http://i.imgur.com/89cWMF2.png)
 As you can tell, the retrograde motion becomes more and more pronounced as you get further away from the Sun-center system.
 
